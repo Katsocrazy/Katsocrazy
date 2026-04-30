@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kat
 - 👀 I’m interested in Design,anime,expanding my coding knowledge
-- 🌱 I’m currently learning swift python,ect
+- 🌱 I’m currently learning swift,python,ect
 - 💞️ I’m looking to collaborate on all kinds of projects! 
 - 📫 How to reach me Email or Phone 
 - 😄 Pronouns: She/Her/We
